@@ -1,6 +1,6 @@
 # Selenium-script-for-login-page
 
-In this script:
+In this script-
 
 We import the necessary libraries, including Selenium.
 We create an instance of the WebDriver(Example: crome)
